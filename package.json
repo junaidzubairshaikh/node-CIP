@@ -1,0 +1,22 @@
+{
+  "name": "api-practice",
+  "version": "1.0.0",
+  "description": "An Api project ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/junaidzubairshaikh/node-CIP.git"
+  },
+  "author": "junaid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/junaidzubairshaikh/node-CIP/issues"
+  },
+  "homepage": "https://github.com/junaidzubairshaikh/node-CIP#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.6"
+  }
+}
